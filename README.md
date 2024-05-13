@@ -30,6 +30,6 @@ Welcome to our frontend repository! This project serves as a frontend interface 
 
 ## Screenshot
 
-![App Screenshot1](screenshots/sh1.png)
-![App Screenshot2](screenshots/sh2.png)
-![App Screenshot3](screenshots/sh3.png)
+<img src="screenshots/sh1.png" alt="App Screenshot" style="width:50%;">
+<img src="screenshots/sh2.png" alt="App Screenshot" style="width:50%;">
+<img src="screenshots/sh3.png" alt="App Screenshot" style="width:50%;">
