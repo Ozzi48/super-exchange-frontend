@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our frontend repository! This project utilizes Vite.js and Vue to create a powerful and efficient user interface for our application.
+Welcome to our frontend repository! This project serves as a frontend interface for our currency converter application. Utilizing Vite.js and Vue, we've crafted an efficient and powerful user interface to facilitate seamless currency exchange operations for our application.
 
 ## Tech Stack
 
@@ -27,3 +27,9 @@ Welcome to our frontend repository! This project utilizes Vite.js and Vue to cre
    ```
 
    This command will spin up a development server and open your default browser to preview the application.
+
+## Screenshot
+
+![App Screenshot1](https://imgur.com/a/RdaOXKU)
+![App Screenshot2](https://imgur.com/a/52NzpUH)
+![App Screenshot3](https://imgur.com/a/mW3PIgX)
