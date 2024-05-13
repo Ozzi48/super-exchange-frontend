@@ -1,7 +1,29 @@
-# Vue 3 + Vite
+# Welcome to Our Vite.js + Vue Frontend Project!
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Introduction
 
-## Recommended IDE Setup
+Welcome to our frontend repository! This project utilizes Vite.js and Vue to create a powerful and efficient user interface for our application.
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+## Tech Stack
+
+- **Vite.js**: Next-gen frontend tooling for Vue.js development.
+- **Vue**: Progressive JavaScript framework for building user interfaces.
+- **Tailwind CSS & Daisy UI**: Utility-first CSS framework & component library for rapid frontend development.
+
+## Getting Started
+
+1. **Clone the Project**
+
+2. **Install Dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+3. **Run Development Server**:
+
+   ```bash
+   npm run dev
+   ```
+
+   This command will spin up a development server and open your default browser to preview the application.
