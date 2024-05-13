@@ -30,6 +30,6 @@ Welcome to our frontend repository! This project serves as a frontend interface 
 
 ## Screenshot
 
-![App Screenshot1](https://imgur.com/a/RdaOXKU)
-![App Screenshot2](https://imgur.com/a/52NzpUH)
-![App Screenshot3](https://imgur.com/a/mW3PIgX)
+![App Screenshot1](screenshots/sh1.png)
+![App Screenshot2](screenshots/sh2.png)
+![App Screenshot3](screenshots/sh3.png)
